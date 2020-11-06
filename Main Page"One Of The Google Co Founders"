@@ -1,0 +1,50 @@
+<main>
+<html>
+   <body>
+  
+<h1 id= main>  
+<h2 id = "title"> Sergey Brin
+</h2>
+
+<h2> Sergey Mikhaylovich Brin together with Larry Page,  co-founded Google. </h2>
+  <div id ="img-div">
+ <img id = "image"src=
+"https://upload.wikimedia.org/wikipedia/commons/a/a2/Sergey_Brin_cropped.jpg" alt id ="img-caption"="Sergey_Brin_pic"</img>
+  </div>
+    
+    <p id = "img-caption"> Sergey Mikhaylovich Brin is an American software engineer and Internet entrepreneur</p>
+<p>
+    <p id= tribute-info > Brin is working on other, more personal projects that reach beyond Google. For example, he and Page are trying to help solve the world's energy and climate problems at Google's philanthropic arm, Google.org, which invests in the alternative energy industry to find wider sources of renewable energy. The company acknowledges that its founders want "to solve really big problems using technology". <br> <br> In October 2010, for example, they invested in a major offshore wind power development to assist the East coast power grid,[25] which will eventually become one of about a dozen offshore wind farms that are proposed for the region.[26] A week earlier they introduced a car that, with "artificial intelligence", can drive itself using video cameras and radar sensors. In the future, drivers of cars with similar sensors would have fewer accidents. These safer vehicles could, therefore, be built lighter and require less fuel consumption.[ They are trying to get companies to create innovative solutions to increasing the world's energy supply.[28] He is an investor in Tesla Motors, which has developed the Tesla Roadster (2008), a 244-mile (393 km) range battery electric vehicle as well as the Tesla Model S, a 265-mile (426 km) range battery electric vehicle.</p>
+  </div>
+      <p>
+<br><br>
+  <a href = 
+     "https://en.wikipedia.org/wiki/Sergey_Brin"Segey Brin</a>
+" Brin has miggrated to United States of America was the president of Google's parent company, Alphabet Inc."
+  </p> 
+
+<li> Together with Larry Page, he co-founded Google. Brin was the president of Google's parent company, Alphabet Inc., until stepping down from the role on December 3, 2019. Brin and Page remain at Alphabet as co-founders, controlling shareholders, board members, and employees.</li>
+
+<p><li> Brin immigrated to the United States with his family from the Soviet Union at the age of six. He earned his bachelor's degree at the University of Maryland, College Park, following in his father's and grandfather's footsteps by studying mathematics, as well as computer science. After graduation, he enrolled in Stanford University to acquire a PhD in computer science. There he met Page, with whom he built a web search engine. The program became popular at Stanford, and they suspended their PhD studies to start up Google in Susan Wojcicki's garage in Menlo Park.</li></p>
+
+   <br><br><p> EARLY LIFE AND EDUCATION </p>
+
+<p><li>Brin was born on August 21, 1973, in Moscow in the Soviet Union, to Jewish parents,Eugenia and Mikhail Brin, both graduates of Moscow State University (MSU). His father is a retired mathematics professor at the University of Maryland, and his mother a researcher at NASA's Goddard Space Flight Center.  
+ The Brin family lived in Vienna and Paris while Mikhail Brin secured a teaching position at the University of Maryland with help from Anatole Katok.</li></p>
+<p><li> In September 1990, Brin enrolled in the University of Maryland, where he received his Bachelor of Science from the Department of Computer Science in 1993 with honors in computer science and mathematics at the age of 19.[13]
+<p>
+Brin began his graduate study in computer science at Stanford University on a graduate fellowship from the National Science Foundation. In 1993, he interned at Wolfram Research, the developers of Mathematica.[13] As of 2008, he was on leave from his PhD studies at Stanford.</li></p>
+
+<br><br><p> SEARCH ENGINE DEVELOPMENT</p>
+<p><li>During an orientation for new students at Stanford, he met Larry Page. They seemed to disagree on most subjects, but after spending time together they "became intellectual soul-mates and close friends." Brin's focus was on developing data mining systems while Page's was in extending "the concept of inferring the importance of a research paper from its citations in other papers".[15] Together, the pair authored a paper titled "The Anatomy of a Large-Scale Hypertextual Web Search Engine".</li></p>
+     <p><li>Page and Brin used the former's basic HTML programming skills to set up a simple search page for users, as they did not have a web page developer to create anything visually elaborate. They also began using any computer part they could find to assemble the necessary computing power to handle searches by multiple users. As their search engine grew in popularity among Stanford users, it required additional servers to process the queries. In August 1996, the initial version of Google was made available on the Stanford Web site.</li></p>
+<a href
+="https://en.wikipedia.org/wiki/Sergey_Brin#Other_interests" target = "_blank" id = "tribute-link" ><a><u>For Further Information</u></a>
+          </p>
+   
+
+</html>
+</body> 
+</div>
+</footer>
+ 
