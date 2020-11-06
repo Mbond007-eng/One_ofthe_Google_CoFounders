@@ -1,0 +1,34 @@
+body {
+     text-align: center;
+        Text-decoration: None;
+}
+h1 {
+  font-family: Sams-serif;
+  font-size: 50px;
+}
+h2 {
+  
+  color: #90EE90;
+  font-size: 20px;
+}
+
+#Img-caption{
+  font-family: Sans-serif;
+}
+p {
+  font-family: Helvetica;
+  color: black;
+}
+a { 
+   Text-decoration: None;
+    color: black;
+}
+{ 
+  height: 300px;
+}
+#img id
+#img-caption { 
+  font-family: Sams-serif;
+  
+}
+
